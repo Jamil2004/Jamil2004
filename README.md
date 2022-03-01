@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamil2004
+- 👋 Hi, I’m @Jamil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on coding
